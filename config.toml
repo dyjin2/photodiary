@@ -1,0 +1,32 @@
+baseURL = 'https://dyjin2.github.io/photodiary/'
+languageCode = 'en-us'
+title = "Dy's Photo Diary"
+theme = 'PaperMod'
+
+# Required for global search functionality
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[params]
+env = "production"
+author = "David Jin"  
+defaultTheme = "auto" 
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+
+# Top navigation menu configuration
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Search"
+url = "/search/"
+weight = 2
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 3

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dy&#39;s Photo Diary</title>
+    <link>http://localhost:1313/photodiary/</link>
+    <description>Recent content on Dy&#39;s Photo Diary</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2026 12:20:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/photodiary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photo Diary</title>
+      <link>http://localhost:1313/photodiary/posts/00-intro/</link>
+      <pubDate>Sat, 18 Apr 2026 12:20:00 -0400</pubDate>
+      <guid>http://localhost:1313/photodiary/posts/00-intro/</guid>
+      <description>开始学习摄影。</description>
+    </item>
+    <item>
+      <title>微距初探: Tamron 35mm M1:2</title>
+      <link>http://localhost:1313/photodiary/posts/01-35mm/</link>
+      <pubDate>Sat, 18 Apr 2026 12:18:25 -0400</pubDate>
+      <guid>http://localhost:1313/photodiary/posts/01-35mm/</guid>
+      <description>从微距开始吧。</description>
+    </item>
+    <item>
+      <title>初试摇拍 (Panning)：用慢速快门捕捉速度感</title>
+      <link>http://localhost:1313/photodiary/posts/panning-practice/</link>
+      <pubDate>Sat, 18 Apr 2026 10:30:00 -0400</pubDate>
+      <guid>http://localhost:1313/photodiary/posts/panning-practice/</guid>
+      <description>第一次系统性地练习摇拍技术，记录参数设置与跟焦心得。</description>
+    </item>
+  </channel>
+</rss>

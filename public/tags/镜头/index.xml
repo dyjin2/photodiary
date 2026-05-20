@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>镜头 on Dy&#39;s Photo Diary</title>
+    <link>http://localhost:1313/photodiary/tags/%E9%95%9C%E5%A4%B4/</link>
+    <description>Recent content in 镜头 on Dy&#39;s Photo Diary</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2026 12:18:25 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/photodiary/tags/%E9%95%9C%E5%A4%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>微距初探: Tamron 35mm M1:2</title>
+      <link>http://localhost:1313/photodiary/posts/01-35mm/</link>
+      <pubDate>Sat, 18 Apr 2026 12:18:25 -0400</pubDate>
+      <guid>http://localhost:1313/photodiary/posts/01-35mm/</guid>
+      <description>从微距开始吧。</description>
+    </item>
+  </channel>
+</rss>
