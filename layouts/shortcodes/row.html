@@ -1,0 +1,20 @@
+<div class="photo-row" style="display: flex; flex-wrap: wrap; gap: 15px; margin-bottom: 20px;">
+    {{ .Inner }}
+</div>
+
+<style>
+    /* 让内部的 figure 自动平分空间 */
+    .photo-row > figure {
+        flex: 1 1 300px; /* 电脑端平分，手机端屏幕小于300px时自动折叠成上下排列 */
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .photo-row > figure img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px; /* 加一点圆角更好看 */
+        margin-bottom: 5px;
+    }
+</style>
